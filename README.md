@@ -3,7 +3,8 @@
  
 ### <h1>¡Hola a todos! 👋 Soy Benjamin Concha / Fatekiz</h1>
 
-> Actualmente soy estudiante de la carrera: Ingeniería civil en informática (universidad de los lagos/ 2024-2029)
+> Actualmente soy estudiante de la carrera: Ingeniería civil en informática
+> (universidad de los lagos/ 2024-2029)
 <br />
 
 <!--- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa-->
