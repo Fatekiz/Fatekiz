@@ -14,13 +14,39 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Lenguajes y Apps que uso👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Lenguajes que uso👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,bots,discord,github,vscode,windows&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,dart,java,js,html,css,&perline=4" />
+  </a>
+</p>
+<br>
+
+<div id="user-content-toc1">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Frameworks y Apps en las que trabajo👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,discord,github,vscode&perline=4" />
+  </a>
+</p>
+<br>
+
+<div id="user-content-toc2">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> SO </h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows&perline=4" />
   </a>
 </p>
 <br>
